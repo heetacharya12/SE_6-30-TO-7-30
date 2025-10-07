@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main(){
+    
+    int x=1;
+    
+    do
+    {
+        printf("\t %d",x);
+        x++;
+    }
+    while(x<=10);
+}
